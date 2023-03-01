@@ -1,6 +1,6 @@
 {
-  "homepage": "http://krish717.github.io/my-react-app",
-  "name": "my-react-app",
+  "homepage": "http://krish717.github.io/blogs",
+  "name": "blogs",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
